@@ -2,8 +2,6 @@
 
 This project uses the Google Maps API and USDA National Farmers Market Directory API to create a mashup where visitors can search for Farmers Markets in the US by entering a zip code, then Farmers Markets near that zip code will be shown on the map. You can click on a marker or an item in the result list to view more info about the market such as address, schedule, and products.
 
-## Note: this project was originally sourced from Kelli Blalock (https://www.kelliblalock.com/).
-
 ## Demo
 
 Use the app online at 
@@ -22,6 +20,8 @@ To run the project locally:
 * Run `npm install`
 * Run `npm run build` (Also run this after changes are made to code in the `src` directory - the production code will then be output to a `dist` directory.)
 * Open `index.html` in the `dist` directory in a web browser.
+
+# Note: this project was originally sourced from Kelli Blalock (https://www.kelliblalock.com/).
 
 ## Technologies Used
 * JavaScript
