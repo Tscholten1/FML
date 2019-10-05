@@ -21,6 +21,7 @@ To run the project locally:
 * Run `npm run build` (Also run this after changes are made to code in the `src` directory - the production code will then be output to a `dist` directory.)
 * Open `index.html` in the `dist` directory in a web browser.
 
+Note: this project was originally sourced from Kelli Blalock (https://www.kelliblalock.com/)
 # Note: this project was originally sourced from Kelli Blalock (https://www.kelliblalock.com/).
 
 ## Technologies Used
