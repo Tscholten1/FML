@@ -4,7 +4,7 @@ This project uses the Google Maps API and USDA National Farmers Market Directory
 
 ## Demo
 
-Use the app online at 
+Use the app online at https://tscholten1.github.io/FML/
 
 ![Farmers Market Finder - Animated gif demo](demo/demo.gif)
 
