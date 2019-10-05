@@ -22,7 +22,7 @@ To run the project locally:
 * Open `index.html` in the `dist` directory in a web browser.
 
 Note: this project was originally sourced from Kelli Blalock (https://www.kelliblalock.com/)
-# Note: this project was originally sourced from Kelli Blalock (https://www.kelliblalock.com/).
+
 
 ## Technologies Used
 * JavaScript
